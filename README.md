@@ -1,2 +1,2 @@
 # bbob-plots
-Repository containing plots of the bbob problems
+Repository containing plots of the `bbob` problems
